@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: arial;
+    font-size: 84.6%;
+    padding: 15px;
+}
+.container {
+    border: 1px solid #eee;
+    background: #f4f4f4;
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+}
+.cont1 {
+    border: 1px solid #ccc;
+    padding: 15px;
+    font-size: 25px;
+}
+.active {
+    background: lightgreen;
+    color: #333;
+}
+.recent {
+    color: #aaa;
+}
+.wrong {
+    background: red;
+    color: white;
+}
